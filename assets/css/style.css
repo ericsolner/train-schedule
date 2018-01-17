@@ -1,0 +1,27 @@
+
+th {
+	font-size: 20px;
+	text-align: center;
+	background-color: ;
+}
+.panel-heading, h4 {
+	font-size: 30px;
+	text-align: center;
+	background-color: #e5d9e0;
+}
+td {
+	text-align: center;
+}
+label {
+	font-size: 16px;
+}
+
+}
+button {
+	font-size: 20px;
+	text-align: center;
+}
+button:hover {
+	background-color: #e5d9e0;
+	text-transform: uppercase;
+}
